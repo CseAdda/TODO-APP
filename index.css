@@ -1,0 +1,13 @@
+.navbar-brand {
+    background-color: brown;
+    border-radius: 30%;
+    color: blue;
+}
+
+b {
+    color: white;
+}
+
+#savetask {
+    display: none;
+}
